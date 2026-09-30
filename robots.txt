@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.hsh367.cn/sitemap.xml
